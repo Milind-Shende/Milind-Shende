@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Data Analyst , Data Science , SQL and PowerBI**
 
-- 📫 How to reach me **milind.shende24@rediffmail.com**
+- 📫 How to reach me **milind.shende2408@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
