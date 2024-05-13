@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Milind Shende</h1>
-<h3 align="center">👋 Hi, I'm Milind Shende, a Data Analyst with 2 years of experience.</h3>
+<h3 align="center">👋 Hi, I'm Milind Shende, a Data Analyst with 3 years of experience.</h3>
 
 <img align="right" alt="coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
